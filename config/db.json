@@ -1,0 +1,18 @@
+{
+  "test": {
+    "user": "postgres",
+    "password": "postgres",
+    "host": "localhost",
+    "database": "db_test",
+    "port": 5432
+  },
+
+  "development": {
+    "user": "postgres",
+    "password": "postgres",
+    "host": "localhost",
+    "database": "db_connect",
+    "port": 5432
+  },
+  "production": {}
+}

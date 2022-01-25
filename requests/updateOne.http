@@ -1,0 +1,7 @@
+PUT   http://localhost:3001/thing/5 HTTP/1.1
+Content-Type: application/json
+
+
+{
+    "body": "Snow is coming"
+}
